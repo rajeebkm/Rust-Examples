@@ -48,4 +48,4 @@ into_iter - This consumes the collection so that on each iteration the exact dat
 
 iter_mut - This mutably borrows each element of the collection, allowing for the collection to be modified in place.
 
-In the above snippets note the type of match branch, that is the key difference in the types of iteration. The difference in type then of course implies differing actions that are able to be performed.gi
+In the above snippets note the type of match branch, that is the key difference in the types of iteration. The difference in type then of course implies differing actions that are able to be performed.
